@@ -1,25 +1,2 @@
-General View for Hacking.
-Here are some basics for each topic : 
-
-1. Computer Basics : 
- * Hardware : Components like CPU, RAM, Hard Drive, Motherboard.*
- * Software : Operating systems (Windows, macOS, Linux) and applications.
- * Input/Output Device : Keyboards, mice, monitors, printers.
-
-2. Network Basic :
- * Network Types : LAN (Local Area Network), WAN (Wide Area Network)
- * Devices : Routers, switches, modems.
- * Protocols : TCP/IP, HTTP/HTTPS, FTP
- * Ip Addressing : Unique addresses for devices in a network.
-
-3. Linux Basic : 
- * File System : Understanding directories and file paths.
- * Commands : Basic commands like ls, cd, cp, mv, rm, chmod.
- * Package Management : Installing software using package managers like apt (Debian/Ubuntu) or yum (Red Hat/CentOS).
- * Permissions : Understanding user roles and file permissinons.
-
-4. Hacking (Ethical Hacking) : 
- * Types of Hacking : Black Hat, White Hat, Grey Hat.
- * Tools : Common tools like Nmap, Metasploit, Wireshark.
- * Techniques : Social engineering, phishing, penetration testing.
- * Legal and Ethical Considerations : Always ensuring you have permission before testing systems.
+1. Çalışmalarımızı sanal makineler üzerinden yapacağız. Birden fazla bilgisayar kullanmak yerine bir bilgisayara sanal makina kurup, bu sanal makina içerisinde Kali Linux, Windows 10-11 ne istersek kurup bu sanal makineler üzerinde saldırı, savunma ve hack yapacağız. Henüz yolun başında olduğumuz için bir sorunla karşılaşırsak sanal makina üzerinden işletim sistemini silip tekrar yükleyebileceğiz bu sayede ana makinamız her zaman kullanıma hazır ve sağlam kalacaktır.
+2. Ben eski windows bir bilgisayarıma (4ram 128 SSD) sanal makina olarak Virtualbox kurup, kali linuxu burdan kullanacağım. Sanal makinamı kurdum, kali linuxu kurdum ancak sanal windows kuramıyorum. Windowsun sitesinde 23 Ekimden beri teknik sorunlar nedeni ile indirilemiyor uyarısı var.
