@@ -41,10 +41,3 @@ Bu repo, aşağıdaki başlıklar altında bilgiler, kaynaklar ve örnek projele
 
 
 ---------------------------------------------------------------------------------------------------------------
-
-## 🚀 Nasıl Kullanılır?
-
-1. Bu repoyu klonlayın:
-   ```bash
-   git clone https://github.com/your-username/hackingroad.git
-   cd hackingroad
