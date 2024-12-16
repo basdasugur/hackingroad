@@ -42,3 +42,4 @@ Bu repo, aşağıdaki başlıklar altında bilgiler, kaynaklar ve örnek projele
 
 
 ---------------------------------------------------------------------------------------------------------------
+Not : Sıralama, başlıklar hatta içerikler bile zaman içerisinde değişebilir, yenileri eklenebilir ve hatta silinebilir. Amacım bu eğitim sürecinde bu repoyu bir karalama defteri gibi kullanmaktır. Faydalanacak kişilere duyurulur. Buradan örnek alabilirsiniz ama nihayetinde kendi yolunuzu çizmeniz önemlidir.
