@@ -1,5 +1,6 @@
 # Hacking Road: Etik Hacker Olma Yolculuğu 🚀
 
+Kendime Not : 
 Bu proje, etik hacker olma yolculuğumu belgelemek ve Türkçe bir kaynak oluşturmayı amaçlıyor. **Hacking Road**, siber güvenlik dünyasına giriş yapmak isteyen herkes için temel bir rehber niteliği taşır. Hem öğrenim sürecimi kaydediyor hem de öğrendiklerimi paylaşarak topluluğa katkıda bulunmayı hedefliyorum.
 
 ----------------------------------------------------------------------------------------------------
