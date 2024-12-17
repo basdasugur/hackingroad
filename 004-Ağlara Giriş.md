@@ -18,7 +18,22 @@
        Geniş Alan Ağları (WLAN) : LAN'ların birbirine bağlanmasıyla oluşur; internet en büyük WAN'dır.
        Yönlendiriciler (Routers) : Verinin, hedefe ulaşması için doğru yöne gitmesini sağlar.
    
-   b. **Veri İletişimi** :
+   b. **Veri İletişimi** : İki yada daha fazla cihaz arasında veri alışverişi sağlama sürecidir. Bu iletişim elektronik sistemler üzerinden veri veya bilginin gönderilmesi ve alınması şeklinde gerçekleşir.
+   Veri İletişimi Temel Kavramları :
+      I. Veri (Data) : Bilginin elektronik bir ortamda sayısal, ses, görüntü ya da metin gibi biçimlerde ifade edilmesidir.
+      II. İletişim (Communication): Gönderici ve alıcı arasında bilginin aktarımıdır.
+      III. Veri İletişimi (Data Communication): Gönderici ve alıcı cihazlar arasında verinin iletilmesi, aktarılması ve anlaşılabilir bir formda kullanılması sürecidir.
+
+      **Veri İletişiminin Unsurları**
+      I. Gönderici (Sender) : Veriyi gönderen cihaz veya kullanıcı. Ör. bir bilgisayar veya yazıcı.
+      II. Alıcı (Receiver) : Veriyi alan cihaz. Örn: bir sunucu, bilgisayar veya yazıcı.
+      III. İletim Ortamı (Transmission Medium) : Verileirn gönderici ve alıcı arasında iletilmesini sağlayan fiziksel yol. Kablolu (Fiber Optik, Ethernet kablosu vb.) veya kablosuz (Wi-fi, Bluetooth) olabilir.
+      IV. Veri (Data) : Aktarılan bilgi, örneğin metin, ses, görüntü veya video.
+      V. Protokol (Protocol) : Veri iletişimi sırasında cihazlar arasında uyulması gereken kurallar dizisidir. Örn. TCP/IP, HTTP, FTP gibi protokoller.
+      **Veri İletişimi Türleri**
+      I. Yönüne Göre :
+      II. Ortama Göre :
+      III. Veri Türüne Göre : 
 
 
 
